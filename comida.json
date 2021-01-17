@@ -1,0 +1,166 @@
+[
+{
+        “id”: 1,
+            "name": "American Breakfast",
+            "imageName": “american_breakfast”,
+            "Description": "Two eggs fried or scrambled, fruit, juice, coffee or tea",
+            "price": 125.00,
+        },
+          {
+            "id": 2,
+            "name": "Continental Breakfast",
+               "imageName": “continental_breakfast”,
+            "Description": "Fruit, juice, toast, coffee or tea",
+            "price": 90.00,
+        },
+       
+        {
+            "id": 3,
+            "name": "Mexican Breakfast",
+            "imageName": “mexican_breakfast”,
+            "Description": "Fruit, juice, chilaquiles, coffee or tea",
+            "price": 125.00,
+        },
+        {
+            "id": 4,
+            "name": "Jeanie's Waffle Breakfast",
+            "imageName": "jeanies_breakfast",
+            "Description": "Fruit, juice, original waffle, coffee or tea",
+            "price": 125.00,
+        },
+       {
+        
+            "id": 5,
+            "name": "Bacon Cheeseburger",
+            "imageName": “bacon_cheeseburger”,
+            "Description": "Cheeseburger Hamburger”,
+            "price": 170.00,
+        },
+        {
+            "id": 6,
+            "name": "Club Sandwich",
+            "imageName": “club_sandwich”,
+            "Description": "4 pieces cut of ham bacon sandwich with lettuce, served with french fries",
+            "price": 155.00,
+        },
+      
+        {
+            "id": 7,
+            "name": "Golden Fried Chicken Tacos",
+            "imageName": “fried_chicken_tacos”,
+            "Description": "Three fried Chicken Tacos",
+            "price": 160.00,
+        },
+        {
+            "id": 8,
+            "name": “Mexican Chicken Enchiladas (red or Green",
+            "imageName": “mexican_enchiladas",
+            "Description": "Three Enchiladas with Green or Red sauce",
+            "price": 160.00,
+        },
+       
+        {
+            "id": 9,
+            "name": "Stuffed Pepper",
+            "imageName": “poblano_pepper”,
+            "Description": "Very mild, green poblano pepperstuffed with cheese or ground beef",
+            "price": 170.00,
+        },
+            {
+                "id": 10,
+                "name": "Chef Salad",
+                "imageName": "chef_salad",
+                "Description": "Special Salad",
+                "price": 140.00
+            },
+  
+              {
+                  "id": 11,
+                  "name": "Fillet Mignon or Rib Eye",
+                  "imageName": “rib_eye",
+                  "Description": "Grilled steak served with steamed vegetables and baked potato",
+                  "price": 310.00,
+               },
+            {
+                  "id": 12,
+                  "name": "Tampiqueña",
+                  "imageName": “tampiquena",
+                  "Description": "Beef tenderloin steak with enchilada, taco, beans and avocado",
+                  "price": 270.00,
+              },
+              {
+                  "id": 13,
+                  "name": "Beef Fajitas",
+                  "imageName": “beef_fajitas",
+                  "Description": "Beef Fajitas with onions marinated and served with guacamole, rice and beans",
+                  "price": 250.00,
+              },
+              {
+                  "id": 14,
+                  "name": "Arrachera Steak Soft Tacos",
+                  "imageName": "arrachera_steak”,
+                  "Description": "Grilled and diced tender beef served with onions and green peppers.",
+                  "price": 240.00,
+              },
+              {
+                  "id": 15,
+                  "name": "Chicken Fajitas",
+                  "imageName": “chicken_fajitas",
+                  "Description": "Chicken Fajitas",
+                  "price": 220.00,
+              },
+             
+         
+            {
+                "id": 16,
+                "name": "Shrimp Any Style",
+                "imageName": "shrimp_any_style”,
+                "Description": "Calamari, fish, shrimp and fries served with coctail sauce.",
+                "price": 280.00,
+            },
+            {
+            "id": 17,
+            "name": "Fish Fillet any Style",
+            "imageName": "fish_fillet_any_style”,
+            "Description": "Cooked Fish any style with butter, almond mango.",
+            "price": 180.00,
+        },
+    
+            {
+                "id": 18,
+                "name": "Jeanie's Special Margarita",
+                "imageName": “jeanies_margarita",
+                "Description": "Top Secret margarita",
+                "price": 100.00,
+            },
+            {
+                "id": 19,
+                "name": “Madres Margarita",
+                "imageName": "madres”,
+                "Description": “Special  Lime Margarita",
+                "price": 90.00,
+            },
+                {
+                    "id": 20,
+                    "name": "Gourmet Coffee",
+                    "imageName": “black_coffee",
+                    "Description": "Gourmet Coffee",
+                    "price": 40.00,
+                },
+                {
+                    "id": 21,
+                    "name": "Hot Tea",
+                    "imageName": “coffe_and_tea”,
+                    "Description": "Hot Tea",
+                    "price": 40.00,
+                },
+                {
+                    "id": 22,
+                    "name": "Natural Juices",
+                    "imageName": “juices",
+                    "Description": "Natural Juices",
+                    "price": 35.00,
+                }
+              ]
+
+
